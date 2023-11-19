@@ -5,4 +5,4 @@
 <br>
 为了验证是不是推断1，写了这个程序在通知栏实时显示当前的ip地址，发现ip地址并不会因为焦点应用的改变而改变。<br>
 sad....
-![8aecf0acfde5e252dce34392413e0bf](https://github.com/nitpicker55555/andorid_ip_detect/assets/91596298/ca478a6c-68f4-48ba-ad03-d4bae466fdca)
+![8aecf0acfde5e252dce34392413e0bf](https://github.com/nitpicker55555/andorid_ip_detect/assets/91596298/7ba69cb4-0fc2-42c9-a9c4-fb8854784196)
