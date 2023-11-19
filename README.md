@@ -6,4 +6,5 @@
 为了验证是不是推断1，写了这个程序在通知栏实时显示当前的ip地址，发现ip地址并不会因为焦点应用的改变而改变。<br>
 sad....<br>
 可以看到虽然vpn是在传输流量的运行状态，但是全局ip地址依然不是国内ip<br>
+
 ![8aecf0acfde5e252dce34392413e0bf](https://github.com/nitpicker55555/andorid_ip_detect/assets/91596298/d33a5de0-295b-4dd5-ab8c-c1aa063aec46)
